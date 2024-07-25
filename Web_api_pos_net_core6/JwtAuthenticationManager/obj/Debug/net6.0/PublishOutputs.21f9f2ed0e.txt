@@ -1,0 +1,11 @@
+C:\Users\Scorpion\source\repos\Web_api_pos_net_core6\JwtAuthenticationManager\bin\Debug\net6.0\publish\JwtAuthenticationManager.dll
+C:\Users\Scorpion\source\repos\Web_api_pos_net_core6\JwtAuthenticationManager\bin\Debug\net6.0\publish\JwtAuthenticationManager.deps.json
+C:\Users\Scorpion\source\repos\Web_api_pos_net_core6\JwtAuthenticationManager\bin\Debug\net6.0\publish\JwtAuthenticationManager.pdb
+C:\Users\Scorpion\source\repos\Web_api_pos_net_core6\JwtAuthenticationManager\bin\Debug\net6.0\publish\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Scorpion\source\repos\Web_api_pos_net_core6\JwtAuthenticationManager\bin\Debug\net6.0\publish\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Scorpion\source\repos\Web_api_pos_net_core6\JwtAuthenticationManager\bin\Debug\net6.0\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Scorpion\source\repos\Web_api_pos_net_core6\JwtAuthenticationManager\bin\Debug\net6.0\publish\Microsoft.IdentityModel.Logging.dll
+C:\Users\Scorpion\source\repos\Web_api_pos_net_core6\JwtAuthenticationManager\bin\Debug\net6.0\publish\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Scorpion\source\repos\Web_api_pos_net_core6\JwtAuthenticationManager\bin\Debug\net6.0\publish\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Scorpion\source\repos\Web_api_pos_net_core6\JwtAuthenticationManager\bin\Debug\net6.0\publish\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Scorpion\source\repos\Web_api_pos_net_core6\JwtAuthenticationManager\bin\Debug\net6.0\publish\System.IdentityModel.Tokens.Jwt.dll

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\Web_Pos_Api</_PublishTargetUrl>
+    <History>True|2024-07-16T07:03:32.8899021Z||;True|2024-07-11T14:06:12.0847510+07:00||;True|2024-07-10T15:37:58.2685211+07:00||;False|2024-07-10T15:37:45.6900854+07:00||;True|2024-07-10T10:59:29.3998010+07:00||;True|2024-07-10T10:46:08.0963718+07:00||;True|2024-07-10T10:11:12.1334370+07:00||;False|2024-07-10T10:10:05.4165316+07:00||;True|2024-07-09T08:57:20.6835766+07:00||;False|2024-07-09T08:57:00.5793322+07:00||;True|2024-07-09T08:54:09.7522152+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
